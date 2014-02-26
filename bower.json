@@ -1,0 +1,24 @@
+{
+  "name": "todo-browserify",
+  "version": "0.0.1",
+  "authors": [
+    "Johannes Erber <Hannes_E@gmx.de>"
+  ],
+  "description": "TodoMVC created with Browserify and Backbone.",
+  "main": "app/index.html",
+  "keywords": [
+    "browserify",
+    "backbone",
+    "node",
+    "mocha"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/J-Hannes/todo-browserify",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
